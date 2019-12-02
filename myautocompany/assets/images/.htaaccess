@@ -1,0 +1,15 @@
+#Uncomment the following lines as you create the pages.
+#ErrorDocument 400 /400.php
+#Bad Request
+
+#ErrorDocument 401 /401.php
+#Unautorized
+
+#ErrorDocument 403 /403.php
+#Forbidden
+
+ErrorDocument 404 /404.php
+#Not Found
+
+#ErrorDocument 500 /500.php
+#Internal Server Error
