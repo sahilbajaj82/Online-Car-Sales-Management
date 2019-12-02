@@ -6,8 +6,9 @@ Contributers : Sahil Bajaj,Aman Sheel,Saurav Bhartia and Gargee Srivastava
 Our Application also ensures about the security layers;
 we divide it into two layers:-
 1. Blocking all Unauthorized customer using sessions 
-2. blocking attacker to change the functionality of other directories like assets, includes which also contains many important file like sessions 
+2. Blocking attacker to change the functionality of other directories like assets, includes which also contains many important file like sessions 
 
-we have autocarcomapany directory
+autocarcomapany directory
 1. assets - have all our assets of application
 2. includes - contains sessions ,login,header,footer,config,index
+3. all the php codes
